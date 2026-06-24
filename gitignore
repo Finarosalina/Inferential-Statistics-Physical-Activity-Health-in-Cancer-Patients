@@ -1,0 +1,14 @@
+# Data files (download from https://hints.cancer.gov)
+*.rda
+*.rdata
+*.RData
+
+# R session artifacts
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# OS
+.DS_Store
+Thumbs.db
